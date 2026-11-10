@@ -356,3 +356,12 @@ console.log(response.message.content);
 - [Gentoo](https://github.com/gentoo/gentoo/tree/master/sci-ml/ollama)
 - [Flox](https://flox.dev/blog/ollama-part-one)
 - [Guix channel](https://codeberg.org/tusharhero/ollama-guix)
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [ollama/ollama](https://github.com/ollama/ollama), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: MIT License (mantida sem alterações).
+
+**Fonte original:** https://github.com/ollama/ollama
